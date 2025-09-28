@@ -1,4 +1,4 @@
-<p>< img src="https://komarev.com/ghpvc/?username=rishavchanda&1abe1=Profi1e%2eviews&c010r=ee75b6&sty1e=f1at" alt="rishavchanda" / ></p
+[![MasterHead]()
 
 Hello world, this is my profile
 # 💫 About Me:
