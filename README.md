@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/Faizan-Coder1/Faizan-Coder1/blob/d2156156bbdb0dfad6b6a87ccfc77cc956db2d6b/Banner.png)
 
-Hello world, this is my profile
 # 💫 About Me:
 **I'm an enthusiastic and dedicated beginner in data, with a basic understanding of data analysis, visualization, and AI concepts. I enjoy working with datasets to find useful insights using simple statistics and charts. I have good communication, teamwork, and problem-solving skills. I'm eager to keep learning and excited to contribute to real-world data projects in a professional setting.**
 
