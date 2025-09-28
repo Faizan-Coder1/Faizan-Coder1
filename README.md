@@ -2,9 +2,6 @@ Hello world, this is my profile
 # 💫 About Me:
 **I'm an enthusiastic and dedicated beginner in data, with a basic understanding of data analysis, visualization, and AI concepts. I enjoy working with datasets to find useful insights using simple statistics and charts. I have good communication, teamwork, and problem-solving skills. I'm eager to keep learning and excited to contribute to real-world data projects in a professional setting.**
 
-- 📊 Currently learning **Power BI to create interactive dashboards and data visualizations for business intelligence**.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frames.legend) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/faizan-khan2025/](https://www.linkedin.com/in/faizan-khan2025/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizankhan40909@gmail.com) 
 
